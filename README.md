@@ -3,7 +3,7 @@
 ### Acknowledgments
 The Python code is from the short course "Building Towards Computer Use with Anthropic" on the DeepLearning.AI platform, available for free.  
 For more details, visit:  
-<>
+<https://www.deeplearning.ai/short-courses/building-towards-computer-use-with-anthropic/>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
